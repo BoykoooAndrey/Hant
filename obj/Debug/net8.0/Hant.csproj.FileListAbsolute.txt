@@ -1,0 +1,17 @@
+C:\Users\Andrey\Desktop\Hant\bin\Debug\net8.0\Hant.exe
+C:\Users\Andrey\Desktop\Hant\bin\Debug\net8.0\Hant.deps.json
+C:\Users\Andrey\Desktop\Hant\bin\Debug\net8.0\Hant.runtimeconfig.json
+C:\Users\Andrey\Desktop\Hant\bin\Debug\net8.0\Hant.dll
+C:\Users\Andrey\Desktop\Hant\bin\Debug\net8.0\Hant.pdb
+C:\Users\Andrey\Desktop\Hant\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.csproj.Up2Date
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.dll
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\refint\Hant.dll
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.pdb
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\Hant.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\Hant\obj\Debug\net8.0\ref\Hant.dll
